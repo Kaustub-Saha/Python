@@ -7,6 +7,7 @@ I used Tika Libraries to fetch the texts from PDF as it fetches the text with co
 And I have used Camelot to fetch information from the tables.
 
 In a textual format fetching data is easy and simple where I have hardcoded the number of characters to 500, where the algoritm fetches 500 characters after the desired keyword.
+
 In tables the data can be arranged in numerous ways.
 1) There can be two columns and the data can be present horizontally
 2) There can be two columns and desired keywords be present in the column heading and texts can run down.
