@@ -3,10 +3,10 @@ This Algorithm seaches for texts following keywords like Learning Objective and 
 
 Solution:
 These information are gerenally available in Tables or plain text.
-I used Tika Libraries to fetch the texts from PDF as it fetches the text with correct format
-And I have used Camelot to fetch information from the tables.
+Tika Libraries were used ti fetch the texts from PDF with correct format and indentation
+And Camelot package has been used to fetch information from the tables.
 
-In a textual format fetching data is easy and simple where I have hardcoded the number of characters to 500, where the algoritm fetches 500 characters after the desired keyword.
+In a textual format fetching data is easy and simple where the character limit is hardcoded to 500, where the algoritm fetches 500 characters after the desired keyword.
 
 In tables the data can be arranged in numerous ways.
 1) There can be two columns and the data can be present horizontally
